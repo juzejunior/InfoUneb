@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="spacerocket.com.infounebapp.fragment.Palestras">
+
+    <!-- Adding recycle view-->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clipToPadding="false"
+        android:scrollbars="vertical" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Sem conexão com a internet :("
+        android:visibility="invisible"
+        android:id="@+id/palestraConexaoTV"
+        android:layout_below="@+id/recycler_view2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="87dp" />
+
+</RelativeLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "222402584527",
+    "firebase_url": "https://infounebproject.firebaseio.com",
+    "project_id": "infounebproject",
+    "storage_bucket": "infounebproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222402584527:android:a002743aebd5d214",
+        "android_client_info": {
+          "package_name": "spacerocket.com.infounebapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222402584527-iq6131f71ifre7d44df2pbr3mcd50f7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "spacerocket.com.infounebapp",
+            "certificate_hash": "B52F420D9C8A7D7FD17CD6868AC862F403F291D8"
+          }
+        },
+        {
+          "client_id": "222402584527-iot1862errbubndl3pl8a0rd5cjfif7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgkiFb5XWLcCDGMX-Ohal5cU0XYzCv4nk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222402584527-iot1862errbubndl3pl8a0rd5cjfif7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

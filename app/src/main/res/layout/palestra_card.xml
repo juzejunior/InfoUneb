@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/card_margin"
+        android:elevation="3dp"
+        card_view:cardCornerRadius="@dimen/card_palestra_radius">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <!-- foto do palestrante-->
+            <ImageView
+                android:id="@+id/fotoPalestra"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/palestra_cover_height"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:clickable="true"
+                android:scaleType="fitXY" />
+            <!--titulo da palestra-->
+            <TextView
+                android:id="@+id/titlePalestra"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/fotoPalestra"
+                android:paddingLeft="@dimen/palestra_title_padding"
+                android:paddingRight="@dimen/palestra_title_padding"
+                android:paddingTop="@dimen/palestra_title_padding"
+                android:textColor="#000"
+                android:textSize="@dimen/palestra_title" />
+
+            <!--nome do palestrante-->
+            <TextView
+                android:id="@+id/palestrantePalestra"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/titlePalestra"
+                android:paddingLeft="@dimen/palestra_title_padding"
+                android:paddingRight="@dimen/palestra_title_padding"
+                android:paddingTop="@dimen/palestra_title_padding"
+                android:paddingBottom="5dp"
+                android:textSize="@dimen/palestra_palestrante" />
+            <!--data e hora-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:id="@+id/dataPalestra"
+                android:paddingLeft="@dimen/palestra_title_padding"
+                android:paddingRight="@dimen/palestra_title_padding"
+                android:paddingTop="@dimen/palestra_title_padding"
+                android:layout_below="@id/palestrantePalestra"/>
+            <!-- hora -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:id="@+id/horarioPalestra"
+                android:paddingLeft="@dimen/palestra_title_padding"
+                android:paddingRight="@dimen/palestra_title_padding"
+                android:paddingTop="@dimen/palestra_title_padding"
+                android:paddingBottom="10dp"
+                android:layout_below="@id/dataPalestra"/>
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

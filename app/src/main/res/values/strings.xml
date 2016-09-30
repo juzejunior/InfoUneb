@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">InfoUneb</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="action_programacao">Programação</string>
+    <string name="action_search">Procurar</string>
+    <string name="drawer_open">Abrir</string>
+    <string name="drawer_close">Fechar</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_notifications">Messages</string>
+
+    <!--workshop -->
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">WorkShops</string>
+    <string name="backdrop_subtitle">Venha aprender com a gente</string>
+
+    <string name="maratona">Maratona de Projetos</string>
+    <string name="sobre_maratona">Sobre a Maratona</string>
+
+    <string name="infosaude">InfoSaúde</string>
+    <string name="sobre_infosaude">Sobre o InfoSaúde</string>
+
+    <!--drawer labels-->
+    <string name="increvase">Inscreva-se</string>
+    <string name="programacao">Programação</string>
+    <string name="colaboradores">Colaboradores</string>
+    <string name="contato">Contato</string>
+    <string name="avalie">Avalie-nos</string>
+    <string name="avaliar">Avaliar</string>
+    <string name="sugestoes">Sugestões</string>
+
+    <!-- Programação Labels-->
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+
+    <string name="title_messages">Messages</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_home">Home</string>
+
+    <string name="teatro">Teatro</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Intro Slide-->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">PRÓXIMO</string>
+    <string name="skip">PULAR</string>
+    <string name="start">ENTENDI!</string>
+
+    <string name="slide_1_title">Não se perca!</string>
+    <string name="slide_1_desc">Encontre rapidamente a localização das atividades!</string>
+
+    <string name="slide_2_title">Fique Ligado!</string>
+    <string name="slide_2_desc">Notificações em tempo real das atividades durante o evento!</string>
+
+    <string name="slide_3_title">Saiba mais</string>
+    <string name="slide_3_desc">Conheça os palestrantes e não se atrase para sua palestra preferida!</string>
+
+    <string name="slide_4_title">INFOUNEB</string>
+    <string name="slide_4_desc">Um evento realizado com amor pelos alunos de sistemas de informação - UNEB</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+</resources>
