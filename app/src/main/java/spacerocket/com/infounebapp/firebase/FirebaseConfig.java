@@ -8,8 +8,8 @@ public class FirebaseConfig{
     private String urlStorage;
 
     public FirebaseConfig(){
-        urlDatabase = "https://infouneb-7b028.firebaseio.com/";
-        urlStorage = "gs://infouneb-7b028.appspot.com/imagens";
+        urlDatabase = "https://infounebproject.firebaseio.com/";
+        urlStorage = "gs://infounebproject.appspot.com/imagens";
     }
 
     public String getDatabase(){

@@ -38,6 +38,7 @@ import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.messaging.FirebaseMessaging;
 import spacerocket.com.infounebapp.R;
 import spacerocket.com.infounebapp.firebase.FirebaseConfig;
+import spacerocket.com.infounebapp.spaceRocket.PrefManager;
 import spacerocket.com.infounebapp.spaceRocket.WebViewActivity;
 
 public class MainActivity extends AppCompatActivity

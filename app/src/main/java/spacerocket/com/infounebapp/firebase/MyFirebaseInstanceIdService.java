@@ -2,6 +2,8 @@ package spacerocket.com.infounebapp.firebase;
 
 import android.content.Context;
 
+import com.firebase.client.Firebase;
+import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.FirebaseInstanceIdService;
 import com.google.firebase.messaging.FirebaseMessaging;
 
@@ -18,6 +20,7 @@ public class MyFirebaseInstanceIdService extends FirebaseInstanceIdService {
     public void onTokenRefresh() {
         FirebaseMessaging.getInstance().subscribeToTopic("infouneb");
         escreverArquivo();
+        salvarDatabase();
     }
 
     public void escreverArquivo(){
@@ -31,5 +34,14 @@ public class MyFirebaseInstanceIdService extends FirebaseInstanceIdService {
         } catch (Exception e) {
             e.printStackTrace();
         }
+    }
+
+    public void salvarDatabase(){
+        Firebase.setAndroidContext(this);
+        FirebaseConfig ref = new FirebaseConfig();
+        final String token = FirebaseInstanceId.getInstance().getToken();
+        ref.addDatabaseChild("Token/" + token + "/Notificacoes");
+        Firebase firebase = new Firebase(ref.getDatabase());
+        firebase.setValue("ON");
     }
 }
