@@ -49,6 +49,37 @@
           "status": 2
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222402584527:android:b4df0e565ff65021",
+        "android_client_info": {
+          "package_name": "spacerocket.com.br.infounebapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222402584527-iot1862errbubndl3pl8a0rd5cjfif7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgkiFb5XWLcCDGMX-Ohal5cU0XYzCv4nk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
     }
   ],
   "configuration_version": "1"

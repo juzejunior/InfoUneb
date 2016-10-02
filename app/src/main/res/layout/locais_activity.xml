@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:color/white"
-    tools:context="spacerocket.com.infounebapp.activity.Colaboradores"
+    tools:context="spacerocket.com.br.infounebapp.activity.Colaboradores"
     android:fitsSystemWindows="true"
     >
     <RelativeLayout
