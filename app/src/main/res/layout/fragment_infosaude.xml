@@ -92,6 +92,10 @@
         <TextView
             android:textAppearance="?android:attr/textAppearanceSmall"
             android:layout_width="match_parent"
+            android:text=""
+            android:paddingTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
             android:layout_height="wrap_content"
             android:id="@+id/informacoes"
             android:textSize="15dp"

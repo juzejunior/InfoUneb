@@ -16,7 +16,6 @@ import java.util.List;
 
 import spacerocket.com.br.infounebapp.R;
 import spacerocket.com.br.infounebapp.fragment.InfoSaude;
-import spacerocket.com.br.infounebapp.fragment.Maratona;
 import spacerocket.com.br.infounebapp.fragment.Minicursos;
 import spacerocket.com.br.infounebapp.fragment.Palestras;
 
@@ -49,7 +48,6 @@ public class Programacao extends AppCompatActivity {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
         adapter.addFragment(new Palestras(), "Palestras");
         adapter.addFragment(new Minicursos(), "Workshops");
-        adapter.addFragment(new Maratona(), "Maratona");
         adapter.addFragment(new InfoSaude(), "InfoSaúde");
         viewPager.setAdapter(adapter);
     }

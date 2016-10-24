@@ -12,6 +12,7 @@ import android.util.TypedValue;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -40,9 +41,8 @@ public class Palestras extends Fragment {
     protected RecyclerView.LayoutManager mLayoutManager;
     protected TextView semConexao;
 
-    //progressDialog
-    private ProgressDialog mProgressDialog;
 
+    private ProgressDialog mProgressDialog;
 
     public Palestras() {
         // Required empty public constructor
@@ -86,25 +86,24 @@ public class Palestras extends Fragment {
         //set the adapter to recycle view
         recyclerView.setAdapter(adapter);
         //progresss dialog
+        //progresss dialog
         mProgressDialog = new ProgressDialog(getActivity(),R.style.AppCompatAlertDialogStyle);
         mProgressDialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);//seta o spinner circle
         mProgressDialog.setMessage("Carregando...");
         mProgressDialog.setIndeterminate(true);
         /*load the workshop base*/
+        mProgressDialog.show();
         getPalestra();
-
         if(palestraList.isEmpty()) {
-            mProgressDialog.dismiss();
+           // mProgressDialog.dismiss();
         }
 
         return v;
     }
 
-
     /*Get firebase base reference*/
     public void getPalestra()
     {
-        mProgressDialog.show();
         if(mDatabase == null) mDatabase = FirebaseDatabase.getInstance().getReference().child("Palestra");
         mDatabase.addValueEventListener(palestraListener);
     }

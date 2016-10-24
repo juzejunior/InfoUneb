@@ -115,6 +115,7 @@ public class Locais extends AppCompatActivity {
         if(programationList.isEmpty())
         {
             mProgressDialog.dismiss();
+            statusText.setText("Atividades em breve!\n");
             statusText.setVisibility(View.VISIBLE);
         }else{
             statusText.setVisibility(View.INVISIBLE);
@@ -148,7 +149,7 @@ public class Locais extends AppCompatActivity {
         }
     };
 
-    /*read each  data on base*/
+    /*read each data on base*/
     void readProgramacao(DataSnapshot dataSnapshot)
     {
         //para verificar se deve mostrar ou não as atividades
@@ -157,8 +158,10 @@ public class Locais extends AppCompatActivity {
             Calendar c = Calendar.getInstance();//apagar
             if(programation.getLocal().equals(local))
             {
-                int hora = c.get(Calendar.HOUR);
+                int hora = c.get(Calendar.HOUR_OF_DAY);
                 int minuto = c.get(Calendar.MINUTE);
+                //toast test
+                //Toast.makeText(this, "Hora: "+hora, Toast.LENGTH_SHORT).show();
 
                 if(validElement(programation)) {
                     statusText.setVisibility(View.INVISIBLE);

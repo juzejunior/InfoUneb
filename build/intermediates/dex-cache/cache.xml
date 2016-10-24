@@ -3,741 +3,741 @@
 
     <item
         is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.1_ccc7e11ad29a3992be5b959a102830f3a9b4a028/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_768678b32c85aa1f5189d4e696f0e1d5862cc5f0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/jars/classes.jar"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.1_6ab00402578e06ba91b3ca7a3ef9828389939f1a/classes.dex" />
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.1_0633e3e47f06708bca44ee6e7eb9d5a4a8732e82/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_851cfffd45321e3d5afec73e700c2c8c4e229037/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_99695a14c2e24d0c3415dda9069497a81ccaa176/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="35c126beecaad0a02de46295731e3a89f79e815d">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_913a62154badb06d4fbd3fc770a45403e99b1984/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_e004933e5464c5a1effc320f36835a55c00742cb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ac8365c87591065db07f7bac8551504504832cd4">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_2574a75b7347968dcf2ceb0543a9d49efbab0cec/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.1_8d2baf9249f71ec58483052c3c226633a88ee701/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_c720bc7f473f001ece019908609193f9f87b3e7b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.12_f0c0159398a5beff48c23947cb657a701a66afed/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.1_0a6862a7f18ef19a75ec400b285a3072ce6e4b7d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.1_91e3b6b20c437edd6670a7ea10a4274cfc681c73/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a76a6983a23788b3689524d4bed763955afbd306">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.1_203b616e2d71aca54dd7c8c4b1e478cb9db50cf2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.0/c0af904657634f7ab9cc21e75d80250570033321/firebase-client-jvm-2.5.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c0af904657634f7ab9cc21e75d80250570033321">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.5.0_b1aa96a5e4c19a22d0faf0f4ac182f61872f3000/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.1_40521532b43c4bba57698086c51bbefd0a1aae94/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a136366045678579300d161de97c2211c4c4f7a0">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.1_da70b8c5bd4bd58d5bac9bf0389254b4655e0c57/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fb45752f6c9cf630617b1d17c482adc83f87ba5a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_313129df4f845a4dc35322fc2ac0155a33fd354e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_bf04dfa8f4556a5177f7f69fe8a4dc685b301529/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_e1ed673d698014d66195302b0d5488f7840cb2da/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_98522d434a729fea3e0d7c3ccaa0500de9d8a202/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.0/7d0473896b3b10b23a2f9812fec4316dff8afdd/firebase-client-android-2.5.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="07d0473896b3b10b23a2f9812fec4316dff8afdd">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.5.0_abf40fd566098347d2a2b1d2ab690e1be2359ccc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_3a90beaac8538439a2c5c003472ab14f3525c95e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.1_f89bfc2a5e141d6eaa3e8f288aadd8d8edde28ac/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.1_9e6db69a1c1059dac0c6265d81a374e706bb5e9a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.1_fd03d8e2bce62972992a8460f3796bbef9d5b247/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="babb25794a7599069d34705038744c5760a9a88c">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.1_89f1897c5e48b7c020b9f0343f11bdd7817dcbbf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ffea01b2a117e48b0ada26004266b1b428dc3bb0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.1_c06f3f5fa2100c78348552fa65104938da3370ae/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_e49db81ce42f060460b23375c9d08c3446481869/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_d2e46e3214088b98706a9f54caf97b35c59f6203/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_e924acec3b9a8f464ee402e4cbd1469ba2b7a7ba/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.1_a3fdf8b4a368f20515bceb5fe169e78dd9063324/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_9517025ff04c888763206cd9983668c135db7e50/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="518adc52081d41724932b41bc132e4d50a352b86">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.1_715beb27c8f918aefc263351ced32934781f7dbb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.1_b3b2dfce3b29c2a5fe2567e779ed478477846026/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.1_61164add70cbd3eafa5556e4c2d4a4d0f96aa7cb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.1_9239cd8eeddbedbe50af617a7b2fa6dfd8fefd2a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.1_bdaab76467509510f9af9bb9d13c66788ef663c3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.1_5609ffdacae757421a1bf6f112e4f00c71d27e68/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.1_cc91cfdf223ad5d79d76bd4c46ae7c103e64baf3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="4a36600281a648769411ef642c331851732bf29e">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_3cbf320c99986763660a97332cdbf5db847a2c44/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_55693305e5ec24cfaa82f66b2d351cc56cd5edbd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_c07ce5da816057173649bbde1d9c9fad84bafdf3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_ec859c0be88fe34115a349d88bc15838d3d13a0a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_875dc5c23b2ad06de0770734719ee83423fa70af/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.1_8d031bfc72898ee2a36800de2bb3371dfd42a433/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.1_2ce5aec813c83ed348fd44e0aee062dbc4f4b031/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.1_4c791a6e28518ff3e23bd9049ca230bd832b0ebd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_6d071920ab8929de886cc1ecab519729cecfc7c6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jar="/home/jose/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_0aeb78c548f7298e54d7e2af3a2dfa9f2e83e90d/classes.dex" />
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_c22e942c772fa41a3aa96d4ffdbb0f971836e15d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_73bf92dad4705fee0fcdca7ddbc6138537ff8fd1/classes.dex" />
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2bd0f7d53959bdf1fb054f8798c68d373e94443b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_7903f27c0926a12ed86aebf3ea87e849d4c60afa/classes.dex" />
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_358adcd36bd15a4cacc8562466b7f5acf401706d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_3a50a784fba2995f465e04ae7b4fda4c9180a57d/classes.dex" />
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_9de16ca6c8f1555e5a512f14e4728b9ece107afe/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_af7cbd876bcbaf31316848f6d818204241759510/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.1_b19adc7c37ad0d2beae443d38560e5d858b733e3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.1_1c41eef25f93094d212675ebe47162a599e817e5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.1_704c0ff91dc393307c4f4bcabea484da80f238b8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.1_98687aaabf987bf2870177288e6ddd05f743f5b0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.1_8b2b826adfb8b9cb84b5c2ffd8b13ec0288f026c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_d7e1f535bfebcdae15558326f22f89767a0f79cd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_65cb1ab0f44b30539ae879ed504bfccf89303ea6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6081547b6a16d7d1dd62b7d16a5edef1fb72b50b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.1_f5f1b2c1105550804bdb77253de7d3c9785c3dd9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.1_dbdb6a70bee0a0a121da11aacf232b0592c0ecd1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_9f084b79449aabdbfa5f4dc482fe9adf80ea2182/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_6b61aea0ef2726155dd9fb1240a4a5722277d2d5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_3ca06ae5f3ee07f86d0294f341a80b3b41e10e61/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_dbc27e86d50a4141106d003b61917ac8abf9982f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_38e8a486443a7bc6b90e7c19956b989757dd6dd3/classes.dex" />
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_5c9b6d55e5a3f8cf1f0a89378f02712f7c626ab7/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.1/jars/classes.jar"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.1_918c69740f317f09928ddcc454c04b2ab5f1aff4/classes.dex" />
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_d277f27babd9373b7c1bfbaa4730d86331b66a8c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jar="/home/jose/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_7aa09f73198dab6d675c3f5638747c9780ba0d28/classes.dex" />
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_8f43624e6c08d3dbbf5befa17de06ff159fd589b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.1/jars/classes.jar"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.1_0d389f3e67fe7ce83a52fd5c612ff5431720dbf3/classes.dex" />
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.1_b52304596f2d33ae04d9651daee79863643ff03e/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.1_d02a0093df7ebea65190f7ea4b3e57d3e42466a0/classes.dex" />
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.1_2da011bb7070be62f7bf97083b9f6397086c628e/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.1/jars/classes.jar"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.1_421331945b808bb6cfbdcce9819bcaed4e0458df/classes.dex" />
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.1_eff198595288aa9df2c96c8e67f8ca963a70663e/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.1_842f968c13f784913ce5ffcf6e0c46e1ec99a7fb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_40b5924886ba9804486dedd43eb18cd2337b73ba/classes.dex" />
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_ad101bafbe1e20158ad15c3c0f840a7f6d007520/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bill-01/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.1_c9c00d3de0c0ccecf190f09cd7b279f6c45fc2c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_ee08c7ed4b2270e3628d17e2d50b3da2e8b23ac1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_94bf9401418514d1b8b4208dc33eb447c8f5c8b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.12_2cd00403f3d13dd14f428d42a867efbbcd59e3f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_ccf5dfb87d5b37fbbcf7b9a580cc53c922d72408/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_aa61b7195df99becdeb66fa4d67ee72772e53f2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.1_0dfde0b44b48c7f2a7172b7d70b16ae9d30a8252/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.0/c0af904657634f7ab9cc21e75d80250570033321/firebase-client-jvm-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c0af904657634f7ab9cc21e75d80250570033321">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.5.0_2f8b20c91a3bd4788105a30b0cab7bc988d260f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_ea8db6122211efb0baf6cd83d12090e346f780ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.0/7d0473896b3b10b23a2f9812fec4316dff8afdd/firebase-client-android-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07d0473896b3b10b23a2f9812fec4316dff8afdd">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.5.0_b812e791fb58a01aa1e789bcd4f27ae276afd6e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.1_03b4cf599d5523c110ece8101ebc4a4645a16f2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="93bd2d38deb102cf8032e7d63c8ef176e0a71ad5">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_223d73670e914e641a357ccc760d3af4a25e75e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_7419467de8119fd9a4bf19d6e3378c07c371a5fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fc7f13509a9b6269f8cc812c3055dedd75eb2ef7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.1_cdf40f83e564c1473febb2b011beafbb74837b9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2f1baf0edf8f02863ccd9124b29bf17e8921f46c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.1_b0a9247fef10f2235d9fba21f4cb4497e670f946/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.1_d7e1b0480af95db4b436532b7f9b00b272581dc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_3a31dfd9c351c0faff003161bf225e6ce4fb2254/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_d89dfbc8130022f8b6bbeb620e7d1429535739fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_bf9a191445b7769c3cf0e5425e7bafb63ec0206e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.1_07e139c15d1024127590da82410a7ba14609eea8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_0d44a348073098b882c252949a747d0c26f86f62/classes.dex" />
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_97757aaebf4d66ccc5434a471c6963dd7b5b355a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.1/jars/classes.jar"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.1_4c926bbb8a2b7b194447a82f5402c19a05c18b27/classes.dex" />
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.1_c365fa557305b859f42ffeeb06ef5fd0565e31ea/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="54847decb398f709497954e303558a23fc48d3ca">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bb523da68c7850784978cdec56284fd3b5b1d831/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/home/bill-01/Desktop/InfoUnebApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_691101c362e1576b6a4dd24863b3c3b1814bd505/classes.dex" />
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_96888392d95aa54d7711a14cb68921d9141424e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_eaf13abbd90f7abb0f63f304c1c95fe6c31f6460/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_d6fd3b9393a4755d4a5c712a93ac657d7678f774/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.1_7b35eae4a58ccc5d5c7ce2272765c9d907d1fe1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.1_5ca093bc64d0a586d7af87d5def8530c85b2d0f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_d3fa60c565517fd1e6c1f43f25c3a7a6be0667a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_d3d8befeca60bd81e7308af1f8780d2b19cb04c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.1_b17c29bc4386dfdc851732d70e788d0507b36463/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.1_44d16deb33c3645d227e49fbd57f7e3a37b7fd4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_9fdb58a4a03ae168e1a4ca4d9c0c482cb8d38410/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.1_f79e49a7563245fd1f5733f3b8f7358307a803ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_96fdaa53a6197eaeb632fe7767a9c092ec735aa4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2cce43ea7372f402a1d4ddd4688ddfb6637c53a3">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fba02f617457c87430219edb020830f11d91aa45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.1_4eca11ab29e5d5ef080c4feece23cca7b8c2316c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.1_71be18ca403e678994c22778d064d7a0af8d42f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.1_6a0368ea15b10190a6aade58fe99b6ba11730800/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.1_ac3e2107e39d8d563612a71d87dad25570907b78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_daea9c1764723b855f0e27b96922aaf361382b91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_d46f41ecd1a752feb308ad6f95c30038edb3eeb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_c9d2403a9f5fe9732f849d5b1df789eba03a61ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.1_742f5cb3f9889025989aea6c755a40f13095f80f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.1_c5405186074a2fa46f07119cd10ef92c71bd3609/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.1_a627b6d9f83b5e22b1d2d3b1e6746de69f3977f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.1_d5a503dff3a3f4fd59ad96ad551d2ee0d5d60219/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.1_86ac7fe98b7f51d9feb832524284e41303ba06d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.1_6dcd100d59335606bda284236cfe7202811350b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_f670d97ed597a0398b37a0ba3726266da48ce40d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.1_f651eda89ce72ef7b2fa50dcd0902335dd44bad5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.1_138552235753f9b5f0ae3ec76d3a908eb896b4be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_9372fcbb446bf91ce6ebaa8fa434c241eeee38cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.1_4b7067eb43527d5b6e1717821a04e5cff94ec171/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_08e8215729853e54a9ea338260f4564d5ee61f28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9c76406e112329180f734dd3e11104e567751603/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_9a6d4112f04ce03ae8baa1e92f19626162f09543/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.1_afa25f5d71ec4bd4094ef3212c9ddaf2a5cd9509/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.1_3e92524837e881ceef3942943219cf12e223f9ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_832b24047fcc21048088ccd4917b593a32f48eb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_daadadece017f7f4ab9d8afcb6c98faffb910224/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.1_304740e849e6a7d881534805d3d2837a39478c17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.1_e96675492dd61f1be685bbb67e26e8d9811a9ff6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.1_fd80bdc090a7889216fe612b7d51320cdb53092e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.1_ad110bd79d652240c4cbfe5b935aa9ce6bce305c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.1_4787692c4b515bad350fec447968555168292557/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_b9b14532c2a7f35dd9308185a95cc86f00dd64fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cfa0532c7c88425dbf19e2358653288a72a317e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/jose/Documents/projects/InfoUneb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_71fb723d2507643d904eb0df692b17f4dad112e6/classes.dex" />
     </item>
 
 </items>
