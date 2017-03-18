@@ -15,8 +15,6 @@
         android:id="@+id/action_programacao"
         android:title="@string/avaliar"
         android:orderInCategory="100"
-        app:showAsAction="never"
-       />
-
+        app:showAsAction="never" />
 
 </menu>

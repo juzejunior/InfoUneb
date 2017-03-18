@@ -7,6 +7,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
@@ -35,6 +36,9 @@ import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.messaging.FirebaseMessaging;
 
@@ -122,6 +126,28 @@ public class MainActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+        if (Build.VERSION.SDK_INT > 21) {
+            Thread thread =  new Thread(){
+                @Override
+                public void run(){
+                    try {
+                        synchronized(this){
+                            wait(2000);
+                        }
+                    }
+                    catch(InterruptedException ex){
+                    }
+                    finally {
+                        startActivity(new Intent(MainActivity.this, EndEventActivity.class));
+                    }
+                }
+            };
+
+            thread.start();
+        } else {
+            Toast.makeText(this, "A edição de 2016 acabou :(", Toast.LENGTH_LONG).show();
+        }
     }
 
     public void changeNotification(Firebase firebase, String token){
@@ -164,6 +190,7 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if(id == R.id.action_programacao) avaliar();
+        else if (id == R.id.action_politica) policyApp();
         //noinspection SimplifiableIfStatement
         return super.onOptionsItemSelected(item);
     }
@@ -190,13 +217,38 @@ public class MainActivity extends AppCompatActivity
         drawer.closeDrawer(GravityCompat.START);
         return true;
     }
+
+    public void policyApp() {
+        try {
+            DatabaseReference mDatabase = FirebaseDatabase.getInstance().getReference().child("Documents/PP_PT/");
+            mDatabase.addValueEventListener(politicas);
+
+        }catch (NullPointerException ex) {
+            Log.e("Policy", ex.getMessage());
+        }
+    }
+
+    com.google.firebase.database.ValueEventListener politicas = new com.google.firebase.database.ValueEventListener() {
+        @Override
+        public void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot) {
+            String document = dataSnapshot.getValue(String.class);
+            startActivity(new Intent(Intent.ACTION_VIEW,
+                    Uri.parse(document)));
+        }
+
+        @Override
+        public void onCancelled(DatabaseError databaseError) {
+        }
+    };
+
     //link para inscricao
     public void inscrever()
     {
-        Intent it;
-        it = new Intent(this, WebViewActivity.class);
-        it.putExtra("web_page", "https://www.doity.com.br/infouneb2016");
-        startActivity(it);
+        if (Build.VERSION.SDK_INT > 21) {
+            startActivity(new Intent(MainActivity.this, EndEventActivity.class));
+        } else {
+            Toast.makeText(this, "A edição de 2016 acabou :(", Toast.LENGTH_LONG).show();
+        }
     }
     /*avaliação na app store*/
     public void avaliar()

@@ -30,6 +30,7 @@
     <string name="contato">Contato</string>
     <string name="avalie">Avalie-nos</string>
     <string name="avaliar">Avaliar</string>
+    <string name="politica">Política de Privacidade</string>
     <string name="sugestoes">Sugestões</string>
 
     <!-- Programação Labels-->
@@ -75,5 +76,9 @@
 
     <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
     <string name="play_again">Play Again</string>
+
+    <string name="aviso">Aviso</string>
+    <string name="aceitar">Confirmar</string>
+    <string name="end_event">O InfoUneb 2016 terminou. O InfoUneb é um evento realizado pelos alunos do curso de Sistemas de Informação da Universidade do Estado da Bahia. O aplicativo será atualizado em futuras edições.</string>
 
 </resources>
